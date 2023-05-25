@@ -2,9 +2,9 @@
 
 **`Full Stack Web3 Developer`**
 
-I am a full-stack developer currently building games on Web3. Always open to new ideas and I like to experiment. Since I like to work remotely and surf, in my spare time I launched CoworkSurf website https://www.coworksurf.com/ to allow people to find easily remote places with good internet next to amazing surf spots! 
+I am a full-stack developer currently building games on Web3. You can check some of my repos and have a look through my code, and if you like some design and ideas feel free to take inspiration from it 👨🏼‍💻
 
-You can check some of my repos and have a look through my code, and if you like some design and ideas feel free to take inspiration from it 👨🏼‍💻
+Always open to new ideas and I like to experiment. Since I like to work remotely and surf, in my spare time I launched CoworkSurf website https://www.coworksurf.com/ to allow people to find easily remote places with good internet next to amazing surf spots! 
 
 I also love to take pictures check some of them at 📸 https://picozzimichele.com/
 
