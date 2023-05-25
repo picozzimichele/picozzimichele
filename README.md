@@ -28,14 +28,11 @@ I also love to take pictures check some of them at 📸 https://picozzimichele.c
 
 <details>
  <summary><h3>🦦 Michele's Coding Journey</h3></summary>
-My name is Michele Picozzi and I am a front-end developer and photographer. I grew up in Milan, Italy and graduated with a Bachelor’s degree in International Economics from Bocconi University in 2015. I've loved technology for as long as I can remember.
- 
+My name is Michele Picozzi and I am a full-stack developer. I grew up in Milan, Italy and graduated with a Bachelor’s degree in International Economics from Bocconi University in 2015. I've loved technology for as long as I can remember.
 
 After I graduated college, I moved to Dublin, Ireland to start my career in Microsoft. Since moving, I’ve worked in 3 different countries and 5 different teams until I became an Executive in Tokyo, Japan where I have lived for over 4 years and learned Japanese.
 
-Had a knack for coding and building things, that is why on the side I cultivated this passion learning front end development with React, JSX and C# for Unity.
-
-I have been independent ever since.
+Had a knack for coding and building things, that is why on the side I cultivated this passion learning development with React, JSX, Solidity and C# for Unity.
 
 I am currently living in Tokyo and travel all over for work about 60% of the time.
 
