@@ -32,7 +32,7 @@ My name is Michele Picozzi and I am a full-stack developer. I grew up in Milan, 
 <br /><br />
 I moved to Dublin, Ireland to start my career in Microsoft. Since moving, I’ve worked in 3 different countries and 5 different teams until I became an Executive in Tokyo, Japan where I have lived for over 4 years and learned Japanese.
 <br /><br />
-Had a knack for coding and building things, that is why on the side I cultivated this passion learning development with React, JSX, Solidity and C# for Unity.
+Had a knack for coding and building things, that is why I cultivated this passion of learning development with Smart Contract & Solidity.
 <br /><br />
 I am currently living in Tokyo and travel all over for work about 60% of the time.
 
