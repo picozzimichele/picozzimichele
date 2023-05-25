@@ -6,6 +6,8 @@ I am a full-stack developer currently building games on Web3. You can check some
 
 Always open to new ideas and I like to experiment. Since I like to work remotely and surf, in my spare time I launched CoworkSurf website https://www.coworksurf.com/ to allow people to find easily remote places with good internet next to amazing surf spots!
 
+I also love to take pictures check some of them at 📸 https://picozzimichele.com/
+
 ---
 
 ### 👾 Languages and Tools
@@ -21,6 +23,18 @@ Always open to new ideas and I like to experiment. Since I like to work remotely
 <img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
+
+<details>
+ <summary><h3>🦦 Michele's Coding Journey</h3></summary>
+My name is Michele Picozzi and I am a front-end developer and photographer. I grew up in Milan, Italy and graduated with a Bachelor’s degree in International Economics from Bocconi University in 2015. I've loved technology for as long as I can remember. 
+
+After I graduated college, I moved to Dublin, Ireland to start my career in Microsoft. Since moving, I’ve worked in 3 different countries and 5 different teams until I became an Executive in Tokyo, Japan where I have lived for over 4 years and learned Japanese.
+
+Had a knack for coding and building things, that is why on the side I cultivated this passion learning front end development with React, JSX and C# for Unity.
+
+I have been independent ever since.
+
+I am currently living in Tokyo and travel all over for work about 60% of the time.
 
 <!--
 **picozzimichele/picozzimichele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
