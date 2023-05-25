@@ -30,7 +30,7 @@ I also love to take pictures check some of them at 📸 https://picozzimichele.c
 <summary><h3>🦦 Michele's Coding Journey</h3></summary>
 My name is Michele Picozzi and I am a full-stack developer. I grew up in Milan, Italy and graduated in International Economics from Bocconi University. I've loved technology for as long as I can remember.
 <br /><br />
-After I graduated, I moved to Dublin, Ireland to start my career in Microsoft. Since moving, I’ve worked in 3 different countries and 5 different teams until I became an Executive in Tokyo, Japan where I have lived for over 4 years and learned Japanese.
+I moved to Dublin, Ireland to start my career in Microsoft. Since moving, I’ve worked in 3 different countries and 5 different teams until I became an Executive in Tokyo, Japan where I have lived for over 4 years and learned Japanese.
 <br /><br />
 Had a knack for coding and building things, that is why on the side I cultivated this passion learning development with React, JSX, Solidity and C# for Unity.
 <br /><br />
