@@ -37,7 +37,7 @@ I moved to Dublin, Ireland to start my career in Microsoft. Since moving, I’ve
 <br /><br />
 Had a knack for coding and building things, that is why I cultivated this passion of learning development with Smart Contract & Solidity.
 <br /><br />
-I am currently living in 🇵🇹Lisbon[x] 🇯🇵Tokyo[] and travel all over for work about 60% of the time.
+I am currently living in Lisbon🇵🇹[x] Tokyo🇯🇵[ ] and travel all over for work about 60% of the time.
 
 <!--
 **picozzimichele/picozzimichele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
