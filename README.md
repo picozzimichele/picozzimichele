@@ -1,6 +1,6 @@
 # 🏄 Michele Picozzi
 
-**`Full Stack Web3 Developer`**
+**`Full Stack Developer Solidity - Web3`**
 
 I am a full-stack developer currently building games on Web3. You can check some of my repos and have a look through my code, and if you like some design and ideas feel free to take inspiration from it 👨🏼‍💻
 
