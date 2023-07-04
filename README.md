@@ -1,4 +1,4 @@
-#🏄 Michele Picozzi
+# 🏄 Michele Picozzi
 
 **`Full Stack Web3 Developer`**
 
