@@ -2,7 +2,7 @@
 
 **`Full Stack Developer Solidity - Web3`**
 
-I am a full-stack developer currently building on Web3 and Solidity. You can check some of my repos and have a look through my code, and if you like some design and ideas feel free to take inspiration from it 👨🏼‍💻
+I am a full-stack developer currently building Smart Contracts in Solidity and Web3. You can check some of my repos and have a look through my code, and if you like some design and ideas feel free to take inspiration from it 👨🏼‍💻
 
 Always open to new ideas and I like to experiment. Since I like to work remotely and surf, in my spare time I launched CoworkSurf https://www.coworksurf.com/ to allow people to find easily remote places with good internet next to amazing surf spots! 
 
