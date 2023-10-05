@@ -6,7 +6,7 @@ I am a full-stack developer currently building Smart Contracts in Solidity and W
 
 Since I like to work remotely and surf, in my spare time I launched CoworkSurf to allow people to find easily remote places with good internet next to amazing surf spots! 
 
-I also love to take pictures check some of them at 📸 https://picozzimichele.com/
+I also love to take pictures check some of them at 📸 https://www.picozzimichele.com/photography
 
 ---
 
