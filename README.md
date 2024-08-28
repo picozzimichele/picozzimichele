@@ -4,7 +4,7 @@
 
 February 2024 - August 2024 -> Worked on a project from company github account https://github.com/michelemightybear
 
-I am a full-stack developer currently building Smart Contracts in Solidity and Web3. You can check some of my repos and have a look through my code, and if you like some design and ideas feel free to take inspiration from it 👨🏼‍💻
+I am a full-stack developer currently building Smart Contracts in Solidity. You can check some of my repos and have a look through my code, and if you like some design and ideas feel free to take inspiration from it 👨🏼‍💻
 
 Since I like to work remotely and surf, in my spare time I launched CoworkSurf to allow people to find easily remote places with good internet next to amazing surf spots! 
 
