@@ -2,7 +2,7 @@
 
 **`Full Stack Developer Solidity`**
 
-February 2024 - August 2024 -> Worked on a project from company github account https://github.com/michelemightybear
+February 2024 - April 2025 -> Required to work on a few project from company github account
 
 I am a full-stack developer currently building Smart Contracts in Solidity. You can check some of my repos and have a look through my code, and if you like some design and ideas feel free to take inspiration from it 👨🏼‍💻
 
