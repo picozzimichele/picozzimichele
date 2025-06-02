@@ -2,13 +2,13 @@
 
 **`Full Stack Developer Solidity`**
 
-February 2024 - April 2025 -> Required to work on a few project from company github account
-
 I am a full-stack developer currently building Smart Contracts in Solidity. You can check some of my repos and have a look through my code, and if you like some design and ideas feel free to take inspiration from it 👨🏼‍💻
 
 Since I like to work remotely and surf, in my spare time I launched CoworkSurf to allow people to find easily remote places with good internet next to amazing surf spots! 
 
 I also love to take pictures check some of them at 📸 https://www.picozzimichele.com/photography
+
+February 2024 - April 2025 -> Required to work on a few projects from a secure company github account 
 
 ---
 
