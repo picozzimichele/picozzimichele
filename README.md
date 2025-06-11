@@ -1,6 +1,6 @@
 # 🏄 Michele Picozzi
 
-**`Full Stack Developer Solidity`**
+**`Full Stack Developer`**
 
 I am a full-stack developer currently building Smart Contracts in Solidity. You can check some of my repos and have a look through my code, and if you like some design and ideas feel free to take inspiration from it 👨🏼‍💻
 
